@@ -2,20 +2,19 @@
 
 # 👋 Hey there, I'm Omar Emara
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=AI+Engineer+%7C+Software+Engineer;Building+Real-World+Impactful+Solutions;LLMs+%7C+Multi-Agent+Systems+%7C+RAG;Ranked+3rd+at+BUE+with+4.0+GPA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+Real-World+Impactful+Solutions;LLMs+%7C+Multi-Agent+Systems+%7C+RAG;Ranked+3rd+at+BUE+with+4.0+GPA" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-emara-5a114a249)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-oxm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-emara-5a114a249/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-oxm)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Emara623@gmail.com)
-
 
 </div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
 ```python
 class OmarEmara:
@@ -27,9 +26,10 @@ class OmarEmara:
             "gpa": "4.0 / 4.0",
             "rank": "3rd in University 🏆"
         }
-        self.current_role = "AI Engineer @ Qadr AI"
+        self.current_role = "Freelance AI Engineer"
         self.passion = "Building real-world, impactful AI solutions"
-        self.status = "Seeking innovative collaborative environments"
+        self.mission = "Contributing to creating meaningful impact in AI through innovative solutions"
+        self.status = "Open to collaborative environments & freelance opportunities"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together! 🚀")
@@ -55,6 +55,8 @@ me.say_hi()
 ## 🛠️ Tech Arsenal
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 ### Languages & Frameworks
 
@@ -85,10 +87,20 @@ me.say_hi()
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF0000?style=for-the-badge)
 
 </div>
 
@@ -98,14 +110,23 @@ me.say_hi()
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+### 🧠 Freelance AI Engineer
+**Feb 2026 - Present**
+
+Building **Agentic AI solutions** tailored for businesses through autonomous task execution and intelligent reasoning.
+
+- 🤖 Developing intelligent multi-agent workflows
+- ⚙️ Automating complex business processes
+- 🚀 Delivering custom AI-driven solutions
+
 ### 🤖 AI Engineer @ Qadr AI
-**Aug 2025 - Nov 2025**
+**Aug 2025 - Dec 2025**
 
 Developing an **Arabic voice recognition and recitation system** addressing the scarcity of Arabic voice AI models and limited innovations in Classical Arabic speech processing.
 
-- 🎯 Working on cutting-edge Voice AI technology
-- 🌍 Solving real-world problems in Arabic NLP
-- 🔬 Pushing boundaries in Classical Arabic speech processing
+- 🎯 Designed and implemented a lightweight, real-time pipeline for Arabic Quranic Recitation
+- 🌍 Created custom audio pre-processing for cleaning and signal transformation
+- 🔬 Developed a multi-stage classification system for automated evaluation and accuracy scoring
 
 ### 💻 Backend Development Intern @ NFQ Egypt
 **Jan 2024 - Feb 2024**
@@ -114,14 +135,15 @@ Gained hands-on experience with Laravel framework and modern backend development
 
 ---
 
-
 ## 📚 Research & Publications
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
+
 ### 📖 ACG: From Textbook to Reproducible Audio-Synced Lecture Series using LLMs and D-RAG
 
-**Status:** Under Review - *Computers in Education by Springer* (Q1 Journal)
+**Status:** Under Review - *Educational Technology Research and Development Journal by Springer* (Q1 Journal)
 
 ![Research](https://img.shields.io/badge/Research-Published-success?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-LLMs-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
@@ -135,20 +157,22 @@ Gained hands-on experience with Laravel framework and modern backend development
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100">
 <br><b>AI Engineering</b>
 <br><br>LLMs • Multi-Agent Systems<br>RAG • LangChain • LangGraph
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <br><b>Full-Stack Development</b>
 <br><br>React • Next.js • Node.js<br>MongoDB • Express • Flask
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <br><b>Machine Learning</b>
 <br><br>NLP • Computer Vision<br>Deep Learning • YOLO
 </td>
@@ -159,6 +183,7 @@ Gained hands-on experience with Laravel framework and modern backend development
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
@@ -184,11 +209,14 @@ Gained hands-on experience with Laravel framework and modern backend development
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
 | 🥇 Achievement | 📅 Year | 🎯 Category |
 |:---------------|:--------|:------------|
-| **1st Place - GP-Expo Competition** | 2025 | Graduation Project |
-| **1st Place - Game Development Competition** | 2024 | Game Dev |
-| **3x ECPC Participant** | 2023-2025 | Competitive Programming |
+| **Fully Funded Scholarship at BUE** | 2021 | Academic Excellence |
+| **1st Place - GP-Expo Competition** | 2024 | Graduation Project |
+| **1st Place - Game Development Competition** | 2023 | Game Dev |
+| **ECPC Participant** | 2022-2024 | Competitive Programming |
 | **Top 3 Student** | 2021-2025 | Academic Excellence |
 | **Published Researcher** | 2025 | AI Research |
 
@@ -197,6 +225,8 @@ Gained hands-on experience with Laravel framework and modern backend development
 ---
 
 ## 💡 What I'm Up To
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
 
 ```javascript
 const currentFocus = {
@@ -214,13 +244,15 @@ const currentFocus = {
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+
 ### I'm always excited to collaborate on innovative AI projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-emara-5a114a249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-emara)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Emara623@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-oxm)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarEmara)
 
-### 💬 Open to opportunities in AI Engineering, and Research!
+### 💬 Open to opportunities in AI Engineering, Full-Stack Development, and Research!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 
@@ -242,7 +274,8 @@ while True:
 # Always learning, always building! 🚀
 ```
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 
 </div>
 
@@ -250,9 +283,9 @@ while True:
 
 <div align="center">
 
-**⭐ From [OmarEmara](https://github.com/mr-oxm) with 💙**
+**⭐ From [OmarEmara](https://github.com/Mr-oxm) with 💙**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
 </div>
 
