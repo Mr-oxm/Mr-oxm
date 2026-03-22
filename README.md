@@ -139,8 +139,6 @@ Gained hands-on experience with Laravel framework and modern backend development
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
-
 ### 📖 ACG: From Textbook to Reproducible Audio-Synced Lecture Series using LLMs and D-RAG
 
 **Status:** Under Review - *Educational Technology Research and Development Journal by Springer* (Q1 Journal)
@@ -156,8 +154,6 @@ Gained hands-on experience with Laravel framework and modern backend development
 ## 🎯 Areas of Expertise
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 
 <table>
 <tr>
@@ -209,8 +205,6 @@ Gained hands-on experience with Laravel framework and modern backend development
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-
 | 🥇 Achievement | 📅 Year | 🎯 Category |
 |:---------------|:--------|:------------|
 | **Fully Funded Scholarship at BUE** | 2021 | Academic Excellence |
@@ -248,9 +242,9 @@ const currentFocus = {
 
 ### I'm always excited to collaborate on innovative AI projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-emara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-emara-5a114a249/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Emara623@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarEmara)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-oxm)
 
 ### 💬 Open to opportunities in AI Engineering, Full-Stack Development, and Research!
 
