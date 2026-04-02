@@ -208,11 +208,11 @@ Gained hands-on experience with Laravel framework and modern backend development
 | 🥇 Achievement | 📅 Year | 🎯 Category |
 |:---------------|:--------|:------------|
 | **Fully Funded Scholarship at BUE** | 2021 | Academic Excellence |
-| **1st Place - GP-Expo Competition** | 2024 | Graduation Project |
-| **1st Place - Game Development Competition** | 2023 | Game Dev |
-| **ECPC Participant** | 2022-2024 | Competitive Programming |
+| **1st Place - GP-Expo Competition** | 2025 | Graduation Project |
+| **1st Place - Game Development Competition** | 2024 | Game Dev |
+| **ECPC Participant** | 2022-2025 | Competitive Programming |
 | **Top 3 Student** | 2021-2025 | Academic Excellence |
-| **Published Researcher** | 2025 | AI Research |
+| **Published Researcher** | 2026 | AI Research |
 
 </div>
 
